@@ -1,4 +1,4 @@
-## JDBC Sample Exercise
+## JDBC Sample Exercise using MySQL
 
 Write a program to read data from a given SQL table using JDBC. 
 
