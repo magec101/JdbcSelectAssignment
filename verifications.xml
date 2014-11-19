@@ -1,0 +1,14 @@
+<verifications xmlns="http://maven.apache.org/verifications/1.0.0"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="http://maven.apache.org/verifications/1.0.0 http://maven.apache.org/xsd/verifications-1.0.0.xsd">
+  <files>
+    <file>
+      <location>src/main/java/project/JdbcSelectAssignment/Exercise.java</location>
+      <contains>public class Exercise</contains>
+    </file>
+    <file>
+      <location>src/test/java/project/JdbcSelectAssignment/ExerciseTest.java</location>
+      <contains>public class ExerciseTest</contains>
+    </file>
+  </files>
+</verifications>
