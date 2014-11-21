@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.7">
+<file name="/var/www/html/codeit/workspace/JdbcSelectAssignment/src/JdbcSelectAssignment.java">
+<error line="66" column="39" severity="error" message="Must have at least one statement." source="com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck"/>
+</file>
+<file name="/var/www/html/codeit/workspace/JdbcSelectAssignment/src/JdbcSelectAssignmentTest.java">
+</file>
+</checkstyle>

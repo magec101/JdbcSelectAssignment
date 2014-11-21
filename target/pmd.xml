@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.1.2" timestamp="2014-11-19T08:07:00.894">
+<file name="/var/www/html/codeit/workspace/JdbcSelectAssignment/src/JdbcSelectAssignment.java">
+<violation beginline="66" endline="68" begincolumn="15" endcolumn="13" rule="EmptyCatchBlock" ruleset="Empty Code" class="JdbcSelectAssignment" method="main" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/empty.html#EmptyCatchBlock" priority="3">
+Avoid empty catch blocks
+</violation>
+</file>
+<file name="/var/www/html/codeit/workspace/JdbcSelectAssignment/src/JdbcSelectAssignmentTest.java">
+<violation beginline="41" endline="41" begincolumn="21" endcolumn="26" rule="UnusedLocalVariable" ruleset="Unused Code" class="JdbcSelectAssignmentTest" method="test_Simple" variable="stdout" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.1.2/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'stdout'.
+</violation>
+</file>
+</pmd>
